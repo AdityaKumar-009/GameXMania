@@ -1,6 +1,6 @@
 # GameXMania
 A website for downloading PC games. I worked as a Front-End Developer for designing the nostalgic experience. 
-- It was live 2 years ago with this Front-End UI (Now its domain name and Front-End UI has been changed. You can visit to [`Games X Mania`](https://www.gamesxmania.com) to download your favourite PC games).
+- It was live 2 years ago with this Front-End UI (Now its domain name and Front-End UI has been changed by the other developer. You can visit to [`Games X Mania`](https://www.gamesxmania.com) to download your favourite PC games).
 - Developed the Front-End using HTML, CSS, JS and Bootstrap.
 
 ## Features
